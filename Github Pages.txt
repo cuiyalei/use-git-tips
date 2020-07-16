@@ -1,0 +1,13 @@
+
+使用Github Pages搭建网站
+访问方法：http://user-name.github.io
+
+搭建步骤：
+
+1）创建个人站点 -> 新建仓库（仓库名必须是：user-name.github.io）
+2) 在仓库下新建 index.html文件即可
+
+Project Pages项目站点
+访问方法：http://user-name.github.io\仓库名
+
+
